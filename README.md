@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Yılmaz</h1>
 <h3 align="center">Computer programming graduate, experienced in cybersecurity. Knowledgeable and experienced in Linux, Python, C#, and SQL languages.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+
 
 - 🌱 I’m currently learning **Asp.Net, C#, Python, JavaScript**
 
@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I think I'm Funny**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
