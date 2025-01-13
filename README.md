@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C++, Typescript, Rust**
+- 🌱 I’m currently learning **Cyber Security, C++, Typescript, Rust**
 
 - 💬 Ask me about **React Native, Linux, C#, Python**
 
