@@ -2,7 +2,7 @@
 <h3 align="center">Computer programming graduate, experienced in cybersecurity. Knowledgeable and experienced in Linux, Python, C#, and SQL languages.</h3>
 
 
-- 🌱 I’m currently learning **Asp.Net, C#, Python, JavaScript**
+- 🌱 I’m currently learning **Asp.Net, C++, Typescript**
 
 - 💬 Ask me about **Linux, cybersecurity**
 
